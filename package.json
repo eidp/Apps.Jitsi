@@ -20,6 +20,6 @@
 		"typecheck": "tsc --noEmit --skipLibCheck"
 	},
 	"dependencies": {
-		"jsrsasign": "^10.5.25"
+		"jsrsasign": "^11.1.0"
 	}
 }
